@@ -48,7 +48,7 @@ To use this script with Gmail, you must create an app password due to Google’s
 
    ```bash
    git clone https://github.com/IBeDev/Email-Bomb.git
-   cd email-bomber
+   cd Email-Bomber
    ```
 
 2. Run the script:
